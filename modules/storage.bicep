@@ -1,4 +1,4 @@
-@description('リソースの場所')
+﻿@description('リソースの場所')
 param location string
 param storageAccountName string
 param containerName string

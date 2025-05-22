@@ -1,4 +1,4 @@
-param storageAccountName string
+﻿param storageAccountName string
 param shareName string
 param localMountDir string
 param quota int = 50

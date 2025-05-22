@@ -1,4 +1,4 @@
-@description('リソースの場所')
+﻿@description('リソースの場所')
 param location string
 
 @description('ACA Log Analyticsワークスペース名')

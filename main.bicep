@@ -1,4 +1,4 @@
-targetScope = 'subscription'
+﻿targetScope = 'subscription'
 
 @description('デプロイするリージョン')
 param location string = 'japaneast'

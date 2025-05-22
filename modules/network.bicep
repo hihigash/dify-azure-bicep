@@ -1,4 +1,4 @@
-param location string
+﻿param location string
 param ipPrefix string
 
 resource vnet 'Microsoft.Network/virtualNetworks@2022-05-01' = {

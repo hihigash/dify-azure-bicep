@@ -1,4 +1,4 @@
-@description('リソースグループの場所')
+﻿@description('リソースグループの場所')
 param location string
 
 @description('IPプレフィックス')
